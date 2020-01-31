@@ -1,4 +1,6 @@
 # Static-System-Java-Library
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdylwedma11748%2FStatic-System-Java-Library.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdylwedma11748%2FStatic-System-Java-Library?ref=badge_shield)
+
 This is just a simple Java Library that will allow you to use the System methods in a static way.
 
 Example:
@@ -11,3 +13,7 @@ Instructions:
 3. On the class you want to use it on add this line of code to the "imports":
 import sSystem.sSystem.*;
 4. You are all set.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdylwedma11748%2FStatic-System-Java-Library.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdylwedma11748%2FStatic-System-Java-Library?ref=badge_large)
